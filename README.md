@@ -34,8 +34,8 @@ Follow these steps to set up and run the chatbot locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Nishanth456/insurance-policy-query-assistant.git
-cd insurance-policy-query-assistant
+git clone https://github.com/Nishanth456/Insurance-Policy-Query-Assistant.git
+cd Insurance-Policy-Query-Assistant
 ```
 ### 2. Create a Virtual Environment (Recommended)
 
