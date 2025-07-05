@@ -1,0 +1,8 @@
+pandas
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+faker
+chromadb
+langchain-chroma
