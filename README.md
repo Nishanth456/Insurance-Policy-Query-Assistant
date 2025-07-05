@@ -92,7 +92,7 @@ Once the chatbot is running, you can interact with it via your terminal.
 ├── utils.py                   # Utility functions for data loading, embeddings, and vector store management
 ├── insurance_policies_sample_100_final.csv # Sample insurance policy data
 ├── .env                       # Environment variables (e.g., GOOGLE_API_KEY)
-└── chroma_db/                 # Directory where the ChromaDB vector store is persisted
+└── chroma_db/                 # Directory where the ChromaDB vector store is persisted (run utils.py to get this here)
 ├── output/                    # Contains output screenshots
 └── README.md                  # This file
 └── requirements.txt           # Project dependencies
